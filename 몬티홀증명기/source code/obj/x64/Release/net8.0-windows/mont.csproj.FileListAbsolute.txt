@@ -1,0 +1,16 @@
+E:\visualstudio workstation\mont\bin\x64\Release\net8.0-windows\mont.exe
+E:\visualstudio workstation\mont\bin\x64\Release\net8.0-windows\mont.deps.json
+E:\visualstudio workstation\mont\bin\x64\Release\net8.0-windows\mont.runtimeconfig.json
+E:\visualstudio workstation\mont\bin\x64\Release\net8.0-windows\mont.dll
+E:\visualstudio workstation\mont\bin\x64\Release\net8.0-windows\mont.pdb
+E:\visualstudio workstation\mont\obj\x64\Release\net8.0-windows\mont.Form1.resources
+E:\visualstudio workstation\mont\obj\x64\Release\net8.0-windows\mont.csproj.GenerateResource.cache
+E:\visualstudio workstation\mont\obj\x64\Release\net8.0-windows\mont.GeneratedMSBuildEditorConfig.editorconfig
+E:\visualstudio workstation\mont\obj\x64\Release\net8.0-windows\mont.AssemblyInfoInputs.cache
+E:\visualstudio workstation\mont\obj\x64\Release\net8.0-windows\mont.AssemblyInfo.cs
+E:\visualstudio workstation\mont\obj\x64\Release\net8.0-windows\mont.csproj.CoreCompileInputs.cache
+E:\visualstudio workstation\mont\obj\x64\Release\net8.0-windows\mont.dll
+E:\visualstudio workstation\mont\obj\x64\Release\net8.0-windows\refint\mont.dll
+E:\visualstudio workstation\mont\obj\x64\Release\net8.0-windows\mont.pdb
+E:\visualstudio workstation\mont\obj\x64\Release\net8.0-windows\mont.genruntimeconfig.cache
+E:\visualstudio workstation\mont\obj\x64\Release\net8.0-windows\ref\mont.dll
